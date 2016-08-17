@@ -1,6 +1,6 @@
 # alfred-workflow-screencapture
 
-## Keyword : screen capture
+### Keyword : screen capture
 
 
 ### 설명
@@ -11,7 +11,7 @@ Command + Shift + 4 를 자꾸 잊어먹어서 알프레드 키워드로 만들�
 키워드 후 마우스 선택영역이 데스크톱에 png로 저장이 됩니다. 
 
 
-## Source
+### Source
     #!/usr/bin/python
 
     import time
